@@ -30,7 +30,7 @@ Implementation of HMPNN and honours project on Hypergraphs
 
 ---
 
-### [MLP | RNN | CNN | AE/VAE | GAN](https://github.com/eisbetterthanpi/hypergraph)
+### [MLP | RNN | CNN | AE/VAE | GAN](https://github.com/eisbetterthanpi/pytorch)
 <div>
   <div>&nbsp;</div>
   <img src="https://raw.githubusercontent.com/eisbetterthanpi/pytorch/main/resources/og4.png" width="50"/> 
